@@ -1,8 +1,24 @@
 # CrediSure
 
+[![CI](https://github.com/innotelinc/disputebee-clone/actions/workflows/ci.yml/badge.svg)](https://github.com/innotelinc/disputebee-clone/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+
 A full-stack credit repair and credit management application built to help users review credit reports, detect errors, generate dispute letters, and track their progress toward improving their credit profile.
 
 Repository: https://github.com/innotelinc/disputebee-clone
+
+## Why CrediSure
+
+| Problem | Answer |
+| --- | --- |
+| Credit reports and letters live in folders. | One case per client, with every report, finding and letter attached. |
+| Dispute status is remembered, not recorded. | Each round and its response is a tracked state, not a note. |
+| Letters are retyped for every bureau. | The letter is generated from the finding that justifies it. |
+
+Its place in the stack is [docs/stack.md](docs/stack.md); the canonical
+definition of the shared layers is the
+[Innotel Platform Stack](https://github.com/innotelinc/innotel-platform-stack).
 
 ## Overview
 
